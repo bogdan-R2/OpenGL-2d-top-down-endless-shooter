@@ -1,1 +1,0 @@
-Fisierele pentru tema sunt in folderul src/lab_m1/tema
